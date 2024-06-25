@@ -2,7 +2,7 @@ import { UserRepository } from "../domain/UserRepository";
 import { User } from "../domain/User";
 import { Pool } from 'pg';
 import { UserId } from "../domain/UserId";
-import { UserName } from "../domain/UserName";
+import { UserName } from "../domain/userName";
 import { UserEmail } from "../domain/UserEmail";
 import { UserCreatedAt } from "../domain/UserCreatedAt";
 
